@@ -1,9 +1,3 @@
--- ============================================================
---   🎢  THEME PARK TYCOON 2 — ULTIMATE HUB  🎢
---   Beautiful dark neon GUI | All-in-one features
---   Paste into your executor while in TPT2
--- ============================================================
-
 -- // SERVICES
 local Players        = game:GetService("Players")
 local RunService     = game:GetService("RunService")
